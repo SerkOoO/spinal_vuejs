@@ -9,6 +9,11 @@ Clôner le dépôt github
 git clone https://github.com/SerkOoO/spinal_vuejs.git
 ```
 
+Accéder au dossier clôné
+```sh
+cd spinal_vuejs
+```
+
 ### Compile and Minify for Production
 
 ```sh
