@@ -14,6 +14,12 @@ Accéder au dossier clôné
 cd spinal_vuejs
 ```
 
+Installer les dépendances
+Accéder au dossier clôné
+```sh
+npm install
+```
+
 ### Compile and Minify for Production
 
 ```sh
