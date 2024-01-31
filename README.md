@@ -20,8 +20,8 @@ Accéder au dossier clôné
 npm install
 ```
 
-### Compile and Minify for Production
+### Lancer l'application
 
 ```sh
-npm run build
+npm run dev
 ```
