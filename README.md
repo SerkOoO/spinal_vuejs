@@ -20,8 +20,17 @@ Accéder au dossier clôné
 npm install
 ```
 
-### Lancer l'application
+Lancer l'application
 
 ```sh
 npm run dev
 ```
+
+Accéder à votre navigateur avec l'url donnée avec la commande npm run dev
+Exemple
+```sh
+http://localhost:5173/
+```
+
+
+
