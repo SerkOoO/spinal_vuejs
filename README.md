@@ -1,6 +1,6 @@
 # spinal_vuejs
 
-This template should help get you started developing with Vue 3 in Vite.
+Ce répertoire permet de parcourir les differentes salles d'une usine et de vérifier si la salle est occupée.
 
 ## Recommended IDE Setup
 
