@@ -1,6 +1,6 @@
 # spinal_vuejs
 
-Ce répertoire permet de parcourir les differentes salles d'une usine et de vérifier si la salle est occupée.
+Cette application Vue.js permet de visualiser le statut d'occupation des salles de chaque étages. Elle récupère des données à partir d'une API SpinalCom pour afficher le pourcentage d'occupation de chaque étage ainsi que le statut (occupé ou non occupé) des salles.
 
 ## Recommended IDE Setup
 
