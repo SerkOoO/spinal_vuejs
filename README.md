@@ -15,7 +15,6 @@ cd spinal_vuejs
 ```
 
 Installer les dépendances
-Accéder au dossier clôné
 ```sh
 npm install
 ```
